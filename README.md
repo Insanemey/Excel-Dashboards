@@ -1,7 +1,10 @@
 # Excel-Dashboards
 Case - Study
+
 Understanding the Customer Service Dashboard
+
 Overview
+
 This dashboard provides a comprehensive overview of key customer service metrics, helping to assess overall performance, identify areas for improvement, and make data-driven decisions.
 Key Metrics and Insights
 1. Inbound Calls:
@@ -19,7 +22,9 @@ o Action: Analyze the feedback from customers to understand the reasons behind t
 5. Attrition Count:
 o 25: This metric likely refers to the number of customer cancellations or churn.
 o Action: Investigate the reasons for customer attrition to implement strategies to retain customers.
+
 Visualizations
+
 1. C-SAT Graph:
 o Shows the C-SAT scores for different channels, with "FK GDS Voice" having the highest score.
 o Action: Analyze the reasons for the higher satisfaction in "FK GDS Voice" and identify best practices to apply to other channels.
@@ -32,15 +37,22 @@ o Action: Analyze the reasons for the high AHT in "Voice-NGDS-Non Air" and imple
 4. Late Login Trend:
 o Visualizes the trend of late logins across different channels.
 o Action: Address the root causes of late logins, such as agent training or scheduling issues, to improve punctuality.
+
 Recommendations
+
 1. Data Quality: Ensure data accuracy and completeness for all metrics, especially for "Total Cases."
 2. Customer Satisfaction: Continuously monitor C-SAT scores and analyze customer feedback to identify areas for improvement.
 3. Attrition: Investigate the reasons for customer attrition and implement retention strategies, particularly in the "Voice-NGDS" channel.
 4. Efficiency: Analyze the AHT for different channels and implement measures to improve efficiency, especially in "Voice-NGDS-Non Air."
 5. Punctuality: Address the root causes of late logins to improve agent punctuality and overall operational efficiency.
+
 Additional Considerations
+
 • Channel-Specific Analysis: Conduct a deeper analysis of each channel to identify specific strengths and weaknesses.
 • Agent-Level Performance: Analyze individual agent performance to identify top performers and areas for coaching and development.
 • Customer Segmentation: Segment customers based on demographics, behavior, or other relevant factors to tailor service delivery and improve satisfaction.
+
 Conclusion
-This dashboard provides a valuable snapshot of customer service performance. By analyzing the data and implementing the recommended actions, it is possible to improve customer satisfaction, reduce attrition, and increase operational efficiency
+
+This dashboard provides a valuable snapshot of customer service performance. By analyzing the data and implementing the recommended actions, it is possible to improve customer satisfaction, reduce attrition, and increase operational efficiency.
+
